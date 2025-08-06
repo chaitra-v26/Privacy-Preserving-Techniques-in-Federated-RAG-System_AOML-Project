@@ -20,7 +20,7 @@ This project explores the integration of privacy-preserving techniques within Fe
 | C Hemachandra | A | PES1UG22AM044 |
 | Chaitra V | A | PES1UG22AM045 |
 
-**Supervisor**: Prof. Bhaskar Jyoti Das (bhaskarjyoti01@gmail.com)
+**Supervisor**: Prof. Bhaskar Jyoti Das 
 
 **Course**: Algorithms and Optimizations For Machine Learning (CSE-AIML)  
 **Semester**: 5th Semester CSE-AIML 2024 (August-Dec 2024)  
